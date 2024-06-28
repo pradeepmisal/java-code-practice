@@ -23,7 +23,7 @@ public class Calculator{
             break;
             case '*': System.out.println(a*b);
             break;
-            default : System.out.println("Invalid operator");
+            default : System.out.println("Invalid operator found");
     
         }
 
