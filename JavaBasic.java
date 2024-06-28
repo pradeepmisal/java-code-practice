@@ -6,6 +6,6 @@ public class JavaBasic{
         float rad= sc.nextFloat();
         float area = 22/7 * rad *rad ;
 
-    System.out.println(area);
+    System.out.println(area of Circle);
     }
 }
