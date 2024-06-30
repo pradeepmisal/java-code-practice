@@ -4,13 +4,13 @@ import java.util.Scanner;
 public class AverageofThree {
     public static void main(String args[]) {
         Scanner sc =new Scanner(System.in);
-        System.out.println("Ener the first no:");
+        System.out.println("Ener the first Number:");
         float A = sc.nextFloat();
 
-        System.out.println("Enter the second no:");
+        System.out.println("Enter the second Number:");
         float B= sc.nextFloat();
 
-        System.out.println("Enter the third no:");
+        System.out.println("Enter the third Number:");
         float C= sc.nextFloat();
 
         Float Sum = A + B + C;
