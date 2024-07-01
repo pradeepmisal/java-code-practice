@@ -2,6 +2,41 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "oop",
+      "request": "launch",
+      "mainClass": "oop",
+      "projectName": "java-code-practice_1f02fa12"
+    },
+    {
+      "type": "java",
+      "name": "Factorial",
+      "request": "launch",
+      "mainClass": "Factorial",
+      "projectName": "java-code-practice_1f02fa12"
+    },
+    {
+      "type": "java",
+      "name": "ipad",
+      "request": "launch",
+      "mainClass": "ipad",
+      "projectName": "java-code-practice_1f02fa12"
+    },
+    {
+      "type": "java",
+      "name": "Incometax",
+      "request": "launch",
+      "mainClass": "Incometax",
+      "projectName": "java-code-practice_1f02fa12"
+    },
+    {
+      "type": "java",
+      "name": "Arraycc",
+      "request": "launch",
+      "mainClass": "Arraycc",
+      "projectName": "java-code-practice_1f02fa12"
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
