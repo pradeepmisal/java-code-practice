@@ -6,7 +6,7 @@ public class GreaterNo {
        if (a>=b){
         System.out.println("A is greter than b");
        } else{
-        System.out.println("B is not gretaer than A");
+        System.out.println("B is N gretaer than A");
        }
 
     }
