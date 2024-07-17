@@ -9,8 +9,8 @@ public class Array{
         myArray[0] = 10;
         myArray[1] = 25;
         myArray[2] = 18;
-        myArray[3] = 32;
-        myArray[4] = 14;
+        myArray[3] = 12;
+        myArray[4] = 34;
 
         int max = myArray[0];
 
