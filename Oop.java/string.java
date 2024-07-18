@@ -2,7 +2,7 @@ import java.util.*;
 
 public class string {
     public static void main(String[] args) {
-        String str = "racecar";
+        String str = "rcecar";
 
         boolean isPalindrome = true;
         for (int i = 0; i < str.length() / 2; i++) {
