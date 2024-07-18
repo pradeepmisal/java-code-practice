@@ -3,6 +3,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "String",
+      "request": "launch",
+      "mainClass": "String",
+      "projectName": "java-code-practice_672edbd9"
+    },
+    {
+      "type": "java",
+      "name": "string",
+      "request": "launch",
+      "mainClass": "string",
+      "projectName": "java-code-practice_672edbd9"
+    },
+    {
+      "type": "java",
+      "name": "complex",
+      "request": "launch",
+      "mainClass": "complex",
+      "projectName": "java-code-practice_672edbd9"
+    },
+    {
+      "type": "java",
+      "name": "Calculator",
+      "request": "launch",
+      "mainClass": "Calculator",
+      "projectName": "java-code-practice_672edbd9"
+    },
+    {
+      "type": "java",
+      "name": "oop",
+      "request": "launch",
+      "mainClass": "oop",
+      "projectName": "java-code-practice_672edbd9"
+    },
+    {
+      "type": "java",
       "name": "oop",
       "request": "launch",
       "mainClass": "oop",
