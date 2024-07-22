@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Q1",
+      "request": "launch",
+      "mainClass": "Q1",
+      "projectName": "java-code-practice_672edbd9"
+    },
+    {
+      "type": "java",
+      "name": "substring",
+      "request": "launch",
+      "mainClass": "substring",
+      "projectName": "java-code-practice_672edbd9"
+    },
+    {
+      "type": "java",
       "name": "String",
       "request": "launch",
       "mainClass": "String",
