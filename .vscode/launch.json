@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "DivideAndConcqure",
+      "request": "launch",
+      "mainClass": "DivideAndConcqure",
+      "projectName": "java-code-practice_672edbd9"
+    },
+    {
+      "type": "java",
       "name": "Recursion1",
       "request": "launch",
       "mainClass": "Recursion1",
