@@ -18,15 +18,27 @@ public class substring {
     //     System.out.println(Sb);
 
     // }
-    public static String touppercase(String str){
-        StringBuilder sb= new StringBuilder("");
-        char ch =Character.toUpperCase(str.charAt(0));
-        for (int i=1; i<)
-
-    }
-    public static void main(String[] args) {
-        String str="hello i am pradeep";
-        
-    }
     
-}
+        public static String compress(String str) {
+            String newStr = "";
+            int count = 1;
+    
+            for (int i = 0; i < str.length(); i++) {
+                while (i + 1 < str.length() && str.charAt(i) == str.charAt(i + 1)) {
+                    i++;
+                    count++;
+                }
+                newStr += str.charAt(i);
+                if (count > 1) {
+                    newStr += count.toString();
+                    count = 1;
+                }
+            }
+            return newStr;
+        }
+    
+        public static void main(String[] args) {
+            String str = "aaabbcccdd";
+            System.out.println(compress(str));
+        }
+    }
