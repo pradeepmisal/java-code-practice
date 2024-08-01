@@ -41,7 +41,11 @@ public class Recursion1{
     public static void main(String[] args) {
         int n=5;
         
+<<<<<<< HEAD
         System.out.println(fibonacci(5));
+=======
+        System.out.println(fibonacci(10));
+>>>>>>> 1936cb1de71b69b77525700398d9568799d1d9f2
 
     }
 }
