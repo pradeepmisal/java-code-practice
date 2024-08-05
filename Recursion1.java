@@ -8,7 +8,7 @@ public class Recursion1{
         System.out.println(n);
         printDec(n-1);
     }
-    //Print Number in incresing order
+    //Print Number in incresing order is
     public static void printInc(int n){
         if(n==1){
             System.out.println(1);
