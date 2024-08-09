@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "backtracking",
+      "request": "launch",
+      "mainClass": "backtracking",
+      "projectName": "java-code-practice_672edbd9"
+    },
+    {
+      "type": "java",
+      "name": "backtraking",
+      "request": "launch",
+      "mainClass": "backtraking",
+      "projectName": "java-code-practice_672edbd9"
+    },
+    {
+      "type": "java",
       "name": "DivideAndConcqure",
       "request": "launch",
       "mainClass": "DivideAndConcqure",
