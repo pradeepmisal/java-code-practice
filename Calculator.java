@@ -11,7 +11,7 @@ public class Calculator{
         System.out.println("Enter B");
         int b = sc.nextInt();
 
-        System.out.println("Enter operator");
+        System.out.println("Enter operator Here");
         char operator= sc.next().charAt(0);
 
         switch(operator){

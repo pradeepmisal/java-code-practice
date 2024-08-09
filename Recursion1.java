@@ -8,7 +8,7 @@ public class Recursion1{
         System.out.println(n);
         printDec(n-1);
     }
-    //Print Number in incresing order
+    //Print Number in incresing order is
     public static void printInc(int n){
         if(n==1){
             System.out.println(1);
@@ -151,7 +151,7 @@ public class Recursion1{
         keyocc (arr, key, i+1);
     }
     // We are given a string S, we need to find the count of all contiguous substrings
-//starting and ending with the same character
+//starting and ending with the same characters
 
 public static void contiguousString(String str){
     if (str.length()== 0){

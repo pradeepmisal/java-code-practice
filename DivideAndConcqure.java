@@ -16,7 +16,7 @@ public class DivideAndConcqure {
     }
     public static int partition(int arr[], int si , int ei){
         int pivot =arr[ei-1];
-        int i = si-1;//TO make placr in the array which are smaller than pivot
+        int i = si-1;//TO make placr in the array which are smaller than pivote
         for (int j=0; j<ei; j++){
             if (arr[j]<= pivot){
                 i++;
